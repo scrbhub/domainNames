@@ -1,0 +1,15 @@
+{
+    "msg": "调用成功",
+    "code": "200",
+    "data": [
+        {
+            "domainName": "http://www.baidu1.com"
+        },
+        {
+            "domainName": "http://218.244.136.24:8081"
+        },
+        {
+            "domainName": "http://218.244.136.21:8081"
+        }
+    ]
+}
